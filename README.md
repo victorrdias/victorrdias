@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with ReactJS and Typescript.<br>👯 I’m looking to collaborate <br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working with ReactJS and Typescript. <br>🌱 I’m constantly learning more about code ⚡ I'm also musician and history teacher <br>💬 Ask me about Ajuize, a StartUp idealized between a group of friends who believe in inovation and progress. 
 
 
 ## 🌐 Socials:
